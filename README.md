@@ -20,7 +20,7 @@ The table stands on four legs and under the feet there is another floor.
 - [x] The table has three holes as shown in the painting in a different color. You can use a round surface.
 - [x] There are red barriers on the table.
 
-![Alt text](https://imgur.com/a/aDcMDlT.png)
+![untitled](https://i.imgur.com/YAZMtA1.jpg)
 
 ### The Game
 
